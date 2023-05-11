@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **compass-maxwellsilva/compass-maxwellsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Maxwell Silva
+
+### About me:
+
+``` JSON
+{
+  "developer" : {
+    "name": "Maxwell Silva",
+    "age": 22,
+    "project": "Pagbank"
+    "platform": "iOS",
+    "from": "Brazil"
+    "education": "Systems Analysis"
+  }
+}
+```
+![Github](https://github-readme-stats-eight-theta.vercel.app/api?username=maxwellssilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues)
+ 
