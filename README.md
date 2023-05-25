@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Maxwell Silva
-![Github](https://github-readme-stats-eight-theta.vercel.app/api?username=maxwellssilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues)
 ### About me:
 
 ``` JSON
@@ -29,5 +28,5 @@ Here are some ideas to get you started:
   }
 }
 ```
-
+![Github](https://github-readme-stats-eight-theta.vercel.app/api?username=maxwellssilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues)
  
