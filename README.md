@@ -22,7 +22,8 @@ Here are some ideas to get you started:
     "name": "Maxwell Silva",
     "age": 22,
     "project": "Pagbank"
-    "platform": "iOS",
+    "platform": "iOS"
+    "skill": "Swift",
     "from": "Brazil"
     "education": "Systems Analysis"
   }
