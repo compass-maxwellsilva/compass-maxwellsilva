@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 {
   "developer" : {
     "name": "Maxwell Silva",
-    "age": 22,
-    "project": "Pagbank"
+    "age": 23,
+    "project": "PagBank"
     "platform": "iOS"
     "from": "Brazil"
-    "education": "Systems Analysis"
+    "education": "Software Engineering"
   }
 }
 ```
